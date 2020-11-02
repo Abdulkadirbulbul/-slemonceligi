@@ -1,0 +1,13 @@
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\bin\Debug\netcoreapp3.1\odev_3hafta_uygulama1.exe
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\bin\Debug\netcoreapp3.1\odev_3hafta_uygulama1.deps.json
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\bin\Debug\netcoreapp3.1\odev_3hafta_uygulama1.runtimeconfig.json
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\bin\Debug\netcoreapp3.1\odev_3hafta_uygulama1.runtimeconfig.dev.json
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\bin\Debug\netcoreapp3.1\odev_3hafta_uygulama1.dll
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\bin\Debug\netcoreapp3.1\odev_3hafta_uygulama1.pdb
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\obj\Debug\netcoreapp3.1\odev_3hafta_uygulama1.csprojAssemblyReference.cache
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\obj\Debug\netcoreapp3.1\odev_3hafta_uygulama1.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\obj\Debug\netcoreapp3.1\odev_3hafta_uygulama1.AssemblyInfo.cs
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\obj\Debug\netcoreapp3.1\odev_3hafta_uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\obj\Debug\netcoreapp3.1\odev_3hafta_uygulama1.dll
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\obj\Debug\netcoreapp3.1\odev_3hafta_uygulama1.pdb
+C:\Users\kadir\source\repos\odev_3hafta_uygulama1\odev_3hafta_uygulama1\obj\Debug\netcoreapp3.1\odev_3hafta_uygulama1.genruntimeconfig.cache
